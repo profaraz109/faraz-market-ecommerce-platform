@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/faraz-market-banner.svg" alt="Faraz Market — Full-Stack E-Commerce Platform" width="100%" />
+
+<br />
+
 # Faraz Market
 
 ### Full-Stack E-Commerce Platform
