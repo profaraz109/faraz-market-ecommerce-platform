@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin-panel
+Disallow: /account
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order/
+Disallow: /api/
+Allow: /api/images/
+Sitemap: https://mydemosite.work/sitemap.xml
